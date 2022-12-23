@@ -1,7 +1,7 @@
 
 # Youtube Downloader
 
-A simple .NET 6 application for downloading **.mp3** and **.mp4** application for mass-downloading videos from Youtube. 
+A simple .NET 6 application for mass-downloading **.mp3** and **.mp4** videos from Youtube. 
 Just supply the source file with direct video URL, playlist link or video name (or all at once).
 
 The app uses **async Parallel loop** when downloading the files for maximum efficiency.
